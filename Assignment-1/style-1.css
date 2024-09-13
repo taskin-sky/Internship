@@ -1,0 +1,100 @@
+/* red --> happyness, fation 
+blue --> security, stability 
+
+CSS --> Cascading Style Sheet */
+* {
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+body {
+    background-color: #577B8D;
+}
+
+
+.box {
+    margin: 25px;
+    background-color: rgb(0, 0, 0);
+    padding: 1px 2px 3px 4px;
+    border: 4px dashed rgb(0, 0, 0);
+    display: inline-block;
+    font-size: x-large;
+    margin-right: 8%;
+}
+
+#box1 {
+    text-align: center;
+    color: white;
+    background-color: rgb(255, 0, 0);
+    height: 100px;
+    width: 100px;
+    border-radius: 10%;
+}
+
+#box2 {
+    text-align: center;
+    color: white;
+    background-color: rgb(0, 255, 0);
+    height: 100px;
+    width: 100px;
+    border-radius: 10%;
+}
+
+#box3 {
+    text-align: center;
+    color: white;
+    background-color: rgb(0, 0, 255);
+    height: 100px;
+    width: 100px;
+    border-radius: 10%;
+}
+
+
+#h11 {
+    height: 50px;
+    width: 300px;
+    background-color: rgb(103, 170, 227);
+    /* border-color: blue;
+    border-width: 5px;
+    border-style: dashed; */
+    border: 4px dashed blue;
+    text-align: center;
+    
+}
+
+
+#amazon_search_bar {
+    height: 60px;
+    background-color: rgba(1, 1, 1, .75);
+}
+
+#searchbtn {
+    background-color: #f08804;
+}
+
+#logo {
+    color: #f08804;
+    font-size: 25px;
+}
+
+a {
+    margin-right: 12%;
+    margin-left: 1%;
+    text-decoration: none;
+}
+
+#btn1 {
+    height: 45px;
+    width: 210px;
+    text-align: center;
+    margin: 10px;
+    background-color: #f08804;
+    font-size: x-large;
+}
+
+
+
+#continer1 {
+    background-color: rgba(255, 86, 86, 0.7);
+}
